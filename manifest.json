@@ -2,7 +2,7 @@
     "name": "Linksy",
     "short_name": "Linksy",
     "start_url": "/index.php",
-    "background_color": "#add8e6",
+    "background_color": "#fffff",
     "theme_color": "#fffff",
     "description": "A lightweight and powerful link management dashboard.",
     "display": "fullscreen",
